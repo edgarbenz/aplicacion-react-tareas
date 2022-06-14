@@ -1,0 +1,6 @@
+.tareas-lista-contenedor {
+  display: flex;
+  flex-wrap: wrap;    /*para que las tareas se presenten en filas diferentes*/
+  justify-content: center;
+  margin-top: 15px;
+}
